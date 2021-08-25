@@ -1,5 +1,5 @@
 {
-  "name": "cripto-senha",
+  "name": "bcrypt-password",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Guilherme Balog Gardino <guibalog@gmail.com> (https://guilhermebalog.github.io)",
